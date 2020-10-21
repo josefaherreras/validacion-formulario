@@ -1,7 +1,10 @@
 # validacion-formulario
-Diseño de formulario con CSS y HTML , validación con JavaScript
+* Diseño de formulario con CSS y HTML
+* Validación con JavaScript
 
-Utilizando 
+
+
+Utilizando :
 
 - normalize.css
 - CSS grid
